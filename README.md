@@ -13,7 +13,7 @@ I'm Stuck In Here ❗❗❗
 🎮 Focus on React, Next and Laravel  
 🥊 Hit Everything in Front Of You  
 ⭐ Glow in The Dark Like A Star  
-☕ Don't Forget to Drink Coffee Every Day  
+☕ Don't Forget to Drink Coffee Every Day
   </pre>
 
 </div>
