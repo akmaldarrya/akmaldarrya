@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://github.com/akmaldarrya/akmaldarrya/blob/main/spiderman.gif" height="100" />
+  <img src="https://github.com/akmaldarrya/akmaldarrya/blob/main/logo.gif" height="100" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=DE1002&width=435&lines=Hi%2C+I'm+Akmal+Darrya+Fawwaz+!!" alt="Type" />
-  <img src="https://github.com/akmaldarrya/akmaldarrya/blob/main/spiderman.gif" height="100" />
+  <img src="https://github.com/akmaldarrya/akmaldarrya/blob/main/logo.gif" height="100" />
 
   <hr />
 
