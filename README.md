@@ -9,7 +9,7 @@
   <pre>
 I'm Stuck In Here ❗❗❗   
 
-👾 Will Be Programmer  
+👾 Frontend Developer
 🎮 Focus on React, Next and Laravel  
 🥊 Hit Everything in Front Of You  
 ⭐ Glow in The Dark Like A Star  
