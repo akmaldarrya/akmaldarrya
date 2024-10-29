@@ -7,20 +7,30 @@
   <hr />
 
   <pre>
-I'm Stuck In Here ❗❗❗   
+🧑‍💻 Stuck in Code World ❗❗❗   
 
-👾 Frontend Developer
-🎮 Focus on React, Next and Laravel  
-🥊 Hit Everything in Front Of You  
-⭐ Glow in The Dark Like A Star  
-☕ Don't Forget to Drink Coffee Every Day
+👾 Frontend Developer | 🚀 Focus: React, Next.js, Laravel  
+🎮 Passionate about Building Interactive UIs  
+⭐ Striving to Shine Bright  
+☕ Fueled by Coffee Daily  
   </pre>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=akmaldarrya&icon=0&color=0" alt="Visitor Count"/> 
+  <div align="center">
+    <img src="https://visitcount.itsvg.in/api?id=akmaldarrya&label=Profile%20Views&color=6&icon=6" alt="Visitor Count" />
+  </div>
 
-    
-  </a>
-</div>
+  <h2>🛠️ Tech Stack</h2>
+  <div align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  </div>
+
+  <h2>📊 Weekly Stats</h2>
+  <img width="80%" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=akmaldrrya&border_radius=5px&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=79c0ff&show_icons=true&disable_animations=true&custom_title=Playtime%20Stats&title_color=f0a500">
+
+  <br>
+
 </div>
