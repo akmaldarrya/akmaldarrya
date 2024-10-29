@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   </div>
 
-  <h2>📊 Weekly Stats</h2>
+  <h2>📊 All Time Stats</h2>
   <img width="80%" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=akmaldrrya&border_radius=5px&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=79c0ff&show_icons=true&disable_animations=true&custom_title=Playtime%20Stats&title_color=f0a500">
 
   <br>
