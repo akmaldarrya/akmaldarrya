@@ -33,6 +33,15 @@
   <h2>📊 All-Time Stats</h2>
   <img width="80%" alt="Playtime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=akmaldrrya&border_radius=5px&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=79c0ff&show_icons=true&disable_animations=true&custom_title=Playtime%20Stats&title_color=f0a500">
 
+  <h2>📊 Github Stats</h2>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akmaldarrya&show_icons=true&locale=en&layout=compact&theme=radical" alt="akmaldarrya" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmaldarrya&theme=radical" alt="akmaldarrya" />
+  </p>
+
   <hr />
 
   <h2>📫 Let's Connect!</h2>
